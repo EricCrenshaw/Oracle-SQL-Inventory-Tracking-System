@@ -1,4 +1,4 @@
-# PL-SQL
+# SQL Project One
 
 I created this inventory tracking system as my final project in an Introductory SQL course.
 
